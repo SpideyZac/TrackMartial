@@ -1,0 +1,10 @@
+{
+    "polymod": {
+        "name": "Track Martial",
+        "id": "track-martial",
+        "author": "SpideyZac",
+        "targets": ["0.5.2"],
+        "main": "track-martial.mod.js"
+    },
+    "dependencies": []
+}

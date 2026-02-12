@@ -1,4 +1,11 @@
 {
-    "changelogs": {},
+    "changelogs": {
+        "0.0.0": [
+            "Initial release."
+        ],
+        "0.0.1": [
+            "Better logging."
+        ]
+    },
     "shortdesc": "TrackMartial is a security-focused and integrity-aware mod for PolyTrack, designed to enhance logging, protect against tampering, and ensure consistent runtime behavior. It provides advanced logging, encrypted log dumping, and real-time integrity checks to safeguard your mod and game environment. Just press the \"L\" key and your log will be exported."
 }
